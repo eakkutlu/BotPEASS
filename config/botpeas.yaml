@@ -13,7 +13,7 @@ DESCRIPTION_KEYWORDS_I:
 - " UAC "
 - User Account Control
 - linpeas
-- winpeas
+- centos
 - docker
 - kubernetes
 - " lxc "
@@ -27,7 +27,7 @@ PRODUCT_KEYWORDS_I:
 - docker
 - kubernetes
 - lxc
-- podman
+- oracle
 - container
 
 PRODUCT_KEYWORDS:
